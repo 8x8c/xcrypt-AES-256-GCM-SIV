@@ -1,4 +1,4 @@
-# Xcrypt_AES-GCM-SIV High security file encryption. 
+# Xcrypt_AES-256-GCM-SIV High security file encryption. 
 
 VERY special app, lots of care went into it. This is made for LINUX to ensure that atomic file overwrite is reliable. (windows needs slightly different code)
 
